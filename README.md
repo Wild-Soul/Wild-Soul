@@ -8,7 +8,7 @@ I’m a passionate software engineer with a strong focus on backend technologies
 
 * 🌍  I'm based in Bengaluru, India
 * ✉️  You can contact me at [rohitkk074@gmail.com](mailto:rohitkk074@gmail.com)
-* 🧠  I'm learning Quantum computing
+* 🧠  I'm learning Blockchain and Web3 development.
 
 ### Skills
 
