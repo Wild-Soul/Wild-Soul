@@ -6,7 +6,7 @@ Full Stack developer
 
 I’m a passionate software engineer with a strong focus on backend technologies and database optimizations. I specialize in building scalable applications using Node.js and Go, and I have extensive experience with PostgreSQL and PostGIS for high-performance data storage and retrieval. In my spare time, I enjoy tackling DSA-oriented challenges on platforms like LeetCode and continuously learning new technologies to stay updated in the field.
 
-* 🌍  I'm based in Bengaluru, India
+* 🌍  I'm based in India
 * ✉️  You can contact me at [rohitkk074@gmail.com](mailto:rohitkk074@gmail.com)
 * 🧠  I'm learning Blockchain and Web3 development.
 
@@ -29,3 +29,7 @@ I’m a passionate software engineer with a strong focus on backend technologies
 <a href="http://www.github.com/Wild-Soul"><img src="https://github-readme-stats.vercel.app/api?username=Wild-Soul&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=171717&hide_border=true&show_icons=true" alt="Wild-Soul's GitHub stats" /></a>
 
 <a href="https://github.com/Wild-Soul" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wild-Soul&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+<b>My roadmap.sh stats</b>
+
+[![roadmap.sh](https://roadmap.sh/card/tall/66d1de62553501e3c32c1fff?variant=dark&roadmaps=golang)](https://roadmap.sh)
