@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rohit Kumar</h1>
-<h3 align="center">I'm a software engineer with a strong focus on backend but also someone who dabbles into front-end.</h3>
+<h3 align="center">Software engineer with a strong focus on backend but also someone who dabbles into front-end.</h3>
 
 - 🔭 I’m currently working on **Building a browser based co-op game.**
 
@@ -16,7 +16,7 @@
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/12846701/cicada" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/12846701/cicada" height="30" width="40" /></a>
 </p>
 
-<h3> Skills: </h3>
+<h3 align="left"> Skills: </h3>
 <div style="margin-left: 20px; padding: 10px; background-color:rgb(248, 243, 243);">
     <h4 align="left" style="color: rgb(0, 0, 0);">Programming Languges:</h4>
     <p align="left">
@@ -231,3 +231,8 @@
         />
     </p>
 </div>
+
+
+<h3 align="left"> Roadmap.sh Stats: </h3>
+
+[![roadmap.sh](https://roadmap.sh/card/wide/66d1de62553501e3c32c1fff?variant=dark&roadmaps=golang)](https://roadmap.sh)
