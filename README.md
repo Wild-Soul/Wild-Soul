@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Building a browser based co-op game.**
 
-- 🌱 I’m currently learning **Svelte and Go**
+- 🌱 I’m currently learning **Go**
 
 - 💬 Ask me about **Node.js, Python, PostgreSQL and ElasticSearch**
 
