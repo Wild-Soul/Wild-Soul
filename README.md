@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on **Building a browser based co-op game.**
 
-- 🌱 I’m currently learning **Go**
+- 🌱 I’m currently learning **System Design**
 
-- 💬 Ask me about **Node.js, Python, PostgreSQL and ElasticSearch**
+- 💬 Ask me about **Node.js, Go, PostgreSQL and ElasticSearch**
 
 - 📫 How to reach me **rohitkk074@gmail.com**
 
