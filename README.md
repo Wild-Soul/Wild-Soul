@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rohit Kumar</h1>
-<h3 align="center">Software engineer with a strong focus on backend but also someone who dabbles into front-end.</h3>
+<h3 align="center">Full-stack developer with equal focus on frontend and backend. I build with and around maps and geospatial data.</h3>
 
 - 🔭 I’m currently working on **Building a browser based co-op game.**
 
