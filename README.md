@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rohit Kumar</h1>
 <h3 align="center">Software Engineer (Full Stack)</h3>
 
-- 🔭 I’m currently working on **Building a browser based co-op game.**
+- 🔭 I’m currently working on **Building a simple 2-D game (in Go) using Ebitengine.**
 
 - 🌱 I’m currently learning **System Design**
 
