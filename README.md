@@ -1,230 +1,124 @@
-<h1 align="center">Hi 👋, I'm Rohit Kumar</h1>
-<h3 align="center">Software Engineer (Full Stack)</h3>
+<div align="center">
 
-- 🔭 I’m currently working on **Building a simple 2-D game (in Go) using Ebitengine.**
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Rohit%20Kumar&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Backend%20%7C%20Cloud%20%7C%20Cybersecurity&descAlignY=58&descSize=18)
 
-- 🌱 I’m currently learning **System Design**
+<a href="https://dev.to/_cicada"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" /></a>
+<a href="https://in.linkedin.com/in/rohitkk074"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://stackoverflow.com/users/12846701/cicada"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" /></a>
+<a href="mailto:rohitkk074@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
-- 💬 Ask me about **Node.js, Go, PostgreSQL and ElasticSearch**
+![Profile views](https://komarev.com/ghpvc/?username=wild-soul&label=Profile%20views&color=0e75b6&style=flat)
 
-- 📫 How to reach me **rohitkk074@gmail.com**
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/_cicada" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/_cicada" height="30" width="40" /></a>
-<a href="https://in.linkedin.com/in/rohitkk074" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://in.linkedin.com/in/rohitkk074" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/12846701/cicada" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/12846701/cicada" height="30" width="40" /></a>
+---
+
+### 👨‍💻 About Me
+
+```typescript
+const rohit = {
+  role: "Software Engineer",
+  location: "India 🇮🇳",
+  currentlyBuilding: "An automation pipeline for video generation",
+  stack: ["Ollama", "OpenCode", "ComfyUI", "Python"],
+  learning: "Cybersecurity (PortSwigger + TryHackMe)",
+  askMeAbout: ["Node.js", "Go", "PostgreSQL", "ElasticSearch", "Temporal"],
+  funFact: "I think in workflows and dream in queues 🐰",
+};
+```
+
+- 🔭 Currently building a **video generation automation pipeline** with Ollama, OpenCode, ComfyUI & Python
+- 🌱 Diving deep into **Cybersecurity** via PortSwigger & TryHackMe
+- 💬 Ask me about **Node.js, Go, PostgreSQL, ElasticSearch, and Temporal**
+- 📫 Reach me at **rohitkk074@gmail.com**
+
+---
+
+### 🛠️ Tech Stack
+
+#### Languages
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
 </p>
 
-<h3 align="left"> Skills: </h3>
-<div style="margin-left: 20px; padding: 10px; background-color:rgb(248, 243, 243);">
-    <h4 align="left" style="color: rgb(0, 0, 0);">Programming Languges:</h4>
-    <p align="left">
-        <a 
-            href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
-            target="_blank"
-            rel="noreferrer"
-        >
-            <img 
-                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-                alt="javascript" 
-                width="40"
-                height="40"
-            />
-        </a> 
-        <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-            <img 
-                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
-                alt="typescript" 
-                width="40"
-                height="40"
-            />
-        </a>
-        <a href="https://www.python.org" target="_blank" rel="noreferrer">
-            <img 
-                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-                alt="python" 
-                width="40"
-                height="40"
-            />
-        </a>
-        <a href="https://golang.org" target="_blank" rel="noreferrer">
-            <img 
-                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg"
-                alt="go" 
-                width="40"
-                height="40"
-            />
-        </a>
-    </p>
-    <h4 align="left" style="color: rgb(0, 0, 0);">Backend:</h4>
-    <p align="left">
-        <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-            <img 
-                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-                alt="nodejs" 
-                width="40"
-                height="40"
-            />
-        </a>
-        <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-            <img 
-                src="./svgs/flask.svg"
-                alt="flask" 
-                width="40"
-                height="40"
-            />
-        </a>
-        <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-            <img 
-                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
-                alt="postgresql" 
-                width="40"
-                height="40"
-            />
-        </a>
-        <a href="https://www.elastic.co" target="_blank" rel="noreferrer">
-            <img 
-                src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg"
-                alt="elasticsearch" 
-                width="40"
-                height="40"
-            />
-        </a>
-        <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer">
-            <img 
-                src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg"
-                alt="rabbitMQ" 
-                width="40"
-                height="40"
-            />
-        </a>
-    <p>
-    <h4 align="left" style="color: rgb(0, 0, 0);">Frontend:</h4>
-    <p align="left">
-        <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-            <img 
-                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-                alt="html5" 
-                width="40"
-                height="40"
-            />
-        </a> 
-        <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-            <img 
-                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-                alt="css3" 
-                width="40"
-                height="40"
-            />
-        </a>
-        <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-            <img 
-                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-                alt="react" 
-                width="40"
-                height="40"
-            />
-        </a> 
-        <a href="https://d3js.org/" target="_blank" rel="noreferrer">
-            <img 
-                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg"
-                alt="d3js" 
-                width="40"
-                height="40"
-            />
-        </a> 
-        <a href="https://webpack.js.org" target="_blank" rel="noreferrer">
-            <img 
-                src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg"
-                alt="webpack" 
-                width="40"
-                height="40"
-            />
-        </a>
-    <p>
-    <h4 align="left" style="color: rgb(0, 0, 0);">Tools:</h4>
-    <p align="left">
-        <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-            <img 
-                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
-                alt="aws" 
-                width="40"
-                height="40"
-            />
-        </a>
-        <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-            <img 
-                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
-                alt="docker" 
-                width="40"
-                height="40"
-            />
-        </a>
-        <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-            <img 
-                src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
-                alt="git" 
-                width="40"
-                height="40"
-            />
-        </a>
-        <a href="https://kubernetes.io" target="_blank" rel="noreferrer">
-            <img 
-                src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg"
-                alt="kubernetes" 
-                width="40"
-                height="40"
-            />
-        </a> 
-        <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-            <img 
-                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
-                alt="linux" 
-                width="40"
-                height="40"
-            />
-        </a>
-        <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-            <img 
-                src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg"
-                alt="pandas" 
-                width="40"
-                height="40"
-            />
-        </a>
-        <a href="https://postman.com" target="_blank" rel="noreferrer">
-            <img 
-                src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"
-                alt="postman" 
-                width="40"
-                height="40"
-            />
-        </a>
-    <p>
-</div>
+#### Backend & Data
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" />
+  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" />
+  <img src="https://img.shields.io/badge/Temporal-000000?style=for-the-badge&logo=temporal&logoColor=white" />
+</p>
+
+#### Frontend
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/D3.js-F9A03C?style=for-the-badge&logo=d3dotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black" />
+</p>
+
+#### DevOps & Tools
+<p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=wild-soul&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wild-soul&layout=compact&theme=tokyonight&hide_border=true" />
 
 <br/>
-<h3 align="left"> Github Stats: </h3>
-<div style="display: flex; align-items: center;">
-    <p>
-        <img
-            align="left"
-            src="https://github-readme-stats.vercel.app/api/top-langs?username=wild-soul&show_icons=true&locale=en&layout=compact"
-            alt="wild-soul"
-        />
-    </p>
-    <p>
-        &nbsp;
-        <img
-            align="center"
-            src="https://github-readme-stats.vercel.app/api?username=wild-soul&show_icons=true&locale=en"
-            alt="wild-soul"
-        />
-    </p>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=wild-soul&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=wild-soul&theme=tokyo-night&hide_border=true&area=true" />
+
 </div>
 
+---
 
-<h3 align="left"> Roadmap.sh Stats: </h3>
+### 🗺️ Roadmap.sh Progress
+
+<div align="center">
 
 [![roadmap.sh](https://roadmap.sh/card/wide/66d1de62553501e3c32c1fff?variant=dark&roadmaps=golang)](https://roadmap.sh)
+
+</div>
+
+---
+
+### 🏆 Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=wild-soul&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=10" />
+
+</div>
+
+---
+
+<div align="center">
+
+### *"Build. Break. Learn. Repeat."*
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer)
+
+</div>
