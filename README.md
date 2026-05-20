@@ -27,7 +27,7 @@ const rohit = {
 };
 ```
 
-- 🔭 Currently building a **video generation automation pipeline** with Ollama, OpenCode, ComfyUI & Python
+- 🔭 Currently building a **video highlight generation script** using Python and Qwen3VL
 - 🌱 Diving deep into **Cybersecurity** via PortSwigger & TryHackMe
 - 💬 Ask me about **Node.js, Go, PostgreSQL, ElasticSearch, and Temporal**
 - 📫 Reach me at **rohitkk074@gmail.com**
@@ -95,15 +95,6 @@ const rohit = {
 
 ---
 
-### 🗺️ Roadmap.sh Progress
-
-<div align="center">
-
-[![roadmap.sh](https://roadmap.sh/card/wide/66d1de62553501e3c32c1fff?variant=dark&roadmaps=golang)](https://roadmap.sh)
-
-</div>
-
----
 
 ### 🏆 Trophies
 
