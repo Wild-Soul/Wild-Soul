@@ -20,7 +20,7 @@ const rohit = {
   role: "Software Engineer",
   location: "India 🇮🇳",
   currentlyBuilding: "An automation pipeline for video generation",
-  stack: ["Ollama", "OpenCode", "ComfyUI", "Python"],
+  stack: ["Python", "Qwen3VL:8B"],
   learning: "Cybersecurity (PortSwigger + TryHackMe)",
   askMeAbout: ["Node.js", "Go", "PostgreSQL", "ElasticSearch", "Temporal"],
   funFact: "I think in workflows and dream in queues 🐰",
