@@ -7,7 +7,7 @@
 <a href="https://stackoverflow.com/users/12846701/cicada"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" /></a>
 <a href="mailto:rohitkk074@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
-![Profile views](https://komarev.com/ghpvc/?username=wild-soul&label=Profile%20views&color=0e75b6&style=flat)
+![Profile views](https://komarev.com/ghpvc/?username=0x1DKFA&label=Profile%20views&color=0e75b6&style=flat)
 
 </div>
 
@@ -80,16 +80,16 @@ const rohit = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=wild-soul&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wild-soul&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=0x1DKFA&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0x1DKFA&layout=compact&theme=tokyonight&hide_border=true" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=wild-soul&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=0x1DKFA&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=wild-soul&theme=tokyo-night&hide_border=true&area=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=0x1DKFA&theme=tokyo-night&hide_border=true&area=true" />
 
 </div>
 
@@ -100,7 +100,7 @@ const rohit = {
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=wild-soul&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=10" />
+<img src="https://github-profile-trophy.vercel.app/?username=0x1DKFA&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=10" />
 
 </div>
 
